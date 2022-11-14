@@ -1,7 +1,6 @@
 # Rust Learn Directory
 
-Rust tiene una gran comunidad y con ella diversas fuentes de informacion para aprender, consultar y compartir conocimientos, he clasificado las diversas fuentes de aprendisaje para un rápido acceso según sea el caso, a futuro espero seguir incrementado contenido para mantenerlo actualizado...disfrútalo como yo rustaceo..!
-
+Rust has a large community and with it various sources of information to learn, consult and share knowledge, I have classified the various learning sources for quick access as the case may be, in the future I hope to continue increasing content to keep it updated...enjoy it as I rust...!
 ## Rust Official Learn
 
 - [Learn Rust](https://www.rust-lang.org/learn)
