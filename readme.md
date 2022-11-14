@@ -1,6 +1,7 @@
 # Rust Learn Directory
 
 Rust has a large community and with it various sources of information to learn, consult and share knowledge, I have classified the various learning sources for quick access as the case may be, in the future I hope to continue increasing content to keep it updated...enjoy it as I rust...!
+
 ## Rust Official Learn
 
 - [Learn Rust](https://www.rust-lang.org/learn)
@@ -8,8 +9,7 @@ Rust has a large community and with it various sources of information to learn, 
 - [Rustlings](https://github.com/rust-lang/rustlings/)
 - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 
-
-## RUST ECOSYSTEM
+## Rust Ecosystem
 
 - [crates.io](https://crates.io/)
 - [Libhunt](https://rust.libhunt.com/categories)
@@ -55,31 +55,30 @@ Rust has a large community and with it various sources of information to learn, 
 - [Packt](https://github.com/PacktPublishing?q=rust&type=all&language=rust&sort=)
 - [Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust#books-blogs-and-training-materials)
 
-## Rust GitHub
+## Rust GitHub Repos
 
 - [TheAlgorithms](https://github.com/TheAlgorithms/Rust)
 
-### Cousers
+## Cousers & Tutorials
 
 - [egghead.io](https://egghead.io/courses/learning-rust-by-solving-the-rustlings-exercises-a722)
 
-### Linkedin Learning
+## Linkedin Learning
 
 [Rust Essential Training](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Frust-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3DhaH8R7zcS9mg8SpZJcf6bw%253D%253D)
 
-### YouTubers
+## YouTubers
 
 - [Jon Gjengset](https://www.youtube.com/c/JonGjengset)
 - [timClicks](https://www.youtube.com/c/timClicks)
 - [Systems with JT](https://www.youtube.com/c/SystemswithJT)
 - [Ryan Levick](https://www.youtube.com/c/RyanLevicksVideos)
 
-### Blogs
+## Blogs
 
 - [Rust Users Forum](https://users.rust-lang.org/)
 - [Philipp Oppermann's blog](https://os.phil-opp.com/)
 - [Lucas Palmieri](https://www.lpalmieri.com/)
-
 
 ## Rust Embedded
 
